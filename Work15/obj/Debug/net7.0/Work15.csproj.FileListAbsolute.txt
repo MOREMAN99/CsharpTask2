@@ -1,0 +1,15 @@
+C:\CsharpSeminar2\CsharpTask2\Work15\obj\Debug\net7.0\Work15.csproj.AssemblyReference.cache
+C:\CsharpSeminar2\CsharpTask2\Work15\obj\Debug\net7.0\Work15.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpSeminar2\CsharpTask2\Work15\obj\Debug\net7.0\Work15.AssemblyInfoInputs.cache
+C:\CsharpSeminar2\CsharpTask2\Work15\obj\Debug\net7.0\Work15.AssemblyInfo.cs
+C:\CsharpSeminar2\CsharpTask2\Work15\obj\Debug\net7.0\Work15.csproj.CoreCompileInputs.cache
+C:\CsharpSeminar2\CsharpTask2\Work15\bin\Debug\net7.0\Work15.exe
+C:\CsharpSeminar2\CsharpTask2\Work15\bin\Debug\net7.0\Work15.deps.json
+C:\CsharpSeminar2\CsharpTask2\Work15\bin\Debug\net7.0\Work15.runtimeconfig.json
+C:\CsharpSeminar2\CsharpTask2\Work15\bin\Debug\net7.0\Work15.dll
+C:\CsharpSeminar2\CsharpTask2\Work15\bin\Debug\net7.0\Work15.pdb
+C:\CsharpSeminar2\CsharpTask2\Work15\obj\Debug\net7.0\Work15.dll
+C:\CsharpSeminar2\CsharpTask2\Work15\obj\Debug\net7.0\refint\Work15.dll
+C:\CsharpSeminar2\CsharpTask2\Work15\obj\Debug\net7.0\Work15.pdb
+C:\CsharpSeminar2\CsharpTask2\Work15\obj\Debug\net7.0\Work15.genruntimeconfig.cache
+C:\CsharpSeminar2\CsharpTask2\Work15\obj\Debug\net7.0\ref\Work15.dll
