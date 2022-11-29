@@ -1,0 +1,15 @@
+C:\CsharpSeminar2\Work10\bin\Debug\net7.0\Work10.exe
+C:\CsharpSeminar2\Work10\bin\Debug\net7.0\Work10.deps.json
+C:\CsharpSeminar2\Work10\bin\Debug\net7.0\Work10.runtimeconfig.json
+C:\CsharpSeminar2\Work10\bin\Debug\net7.0\Work10.dll
+C:\CsharpSeminar2\Work10\bin\Debug\net7.0\Work10.pdb
+C:\CsharpSeminar2\Work10\obj\Debug\net7.0\Work10.csproj.AssemblyReference.cache
+C:\CsharpSeminar2\Work10\obj\Debug\net7.0\Work10.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpSeminar2\Work10\obj\Debug\net7.0\Work10.AssemblyInfoInputs.cache
+C:\CsharpSeminar2\Work10\obj\Debug\net7.0\Work10.AssemblyInfo.cs
+C:\CsharpSeminar2\Work10\obj\Debug\net7.0\Work10.csproj.CoreCompileInputs.cache
+C:\CsharpSeminar2\Work10\obj\Debug\net7.0\Work10.dll
+C:\CsharpSeminar2\Work10\obj\Debug\net7.0\refint\Work10.dll
+C:\CsharpSeminar2\Work10\obj\Debug\net7.0\Work10.pdb
+C:\CsharpSeminar2\Work10\obj\Debug\net7.0\Work10.genruntimeconfig.cache
+C:\CsharpSeminar2\Work10\obj\Debug\net7.0\ref\Work10.dll
