@@ -1,0 +1,15 @@
+C:\CsharpSeminar2\CsharpTask2\Work10\Work13\bin\Debug\net7.0\Work13.exe
+C:\CsharpSeminar2\CsharpTask2\Work10\Work13\bin\Debug\net7.0\Work13.deps.json
+C:\CsharpSeminar2\CsharpTask2\Work10\Work13\bin\Debug\net7.0\Work13.runtimeconfig.json
+C:\CsharpSeminar2\CsharpTask2\Work10\Work13\bin\Debug\net7.0\Work13.dll
+C:\CsharpSeminar2\CsharpTask2\Work10\Work13\bin\Debug\net7.0\Work13.pdb
+C:\CsharpSeminar2\CsharpTask2\Work10\Work13\obj\Debug\net7.0\Work13.csproj.AssemblyReference.cache
+C:\CsharpSeminar2\CsharpTask2\Work10\Work13\obj\Debug\net7.0\Work13.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpSeminar2\CsharpTask2\Work10\Work13\obj\Debug\net7.0\Work13.AssemblyInfoInputs.cache
+C:\CsharpSeminar2\CsharpTask2\Work10\Work13\obj\Debug\net7.0\Work13.AssemblyInfo.cs
+C:\CsharpSeminar2\CsharpTask2\Work10\Work13\obj\Debug\net7.0\Work13.csproj.CoreCompileInputs.cache
+C:\CsharpSeminar2\CsharpTask2\Work10\Work13\obj\Debug\net7.0\Work13.dll
+C:\CsharpSeminar2\CsharpTask2\Work10\Work13\obj\Debug\net7.0\refint\Work13.dll
+C:\CsharpSeminar2\CsharpTask2\Work10\Work13\obj\Debug\net7.0\Work13.pdb
+C:\CsharpSeminar2\CsharpTask2\Work10\Work13\obj\Debug\net7.0\Work13.genruntimeconfig.cache
+C:\CsharpSeminar2\CsharpTask2\Work10\Work13\obj\Debug\net7.0\ref\Work13.dll
